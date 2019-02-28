@@ -1,0 +1,7 @@
+Flask
+uwsgi
+gensim
+numpy
+scipy
+mecab-python3
+pyyaml

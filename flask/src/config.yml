@@ -1,0 +1,7 @@
+# ファイルのパスを指定する。
+path:
+  w2v_model: '/usr/lib/w2v-model-light/w2v_model/wiki.model'
+  mecab: '/usr/lib/x86_64-linux-gnu/mecab/dic/mecab-ipadic-neologd'
+
+w2v:
+  dim: 100
